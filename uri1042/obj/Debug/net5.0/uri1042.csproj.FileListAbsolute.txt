@@ -1,0 +1,5 @@
+C:\Users\Aluno\Desktop\a Lógica de programação-C#\uri1042\obj\Debug\net5.0\uri1042.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\a Lógica de programação-C#\uri1042\obj\Debug\net5.0\uri1042.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\a Lógica de programação-C#\uri1042\obj\Debug\net5.0\uri1042.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\a Lógica de programação-C#\uri1042\obj\Debug\net5.0\uri1042.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\a Lógica de programação-C#\uri1042\obj\Debug\net5.0\uri1042.csproj.CoreCompileInputs.cache

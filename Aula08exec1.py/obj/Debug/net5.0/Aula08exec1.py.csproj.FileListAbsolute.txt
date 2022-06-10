@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\fontess\Aula08exec1.py\bin\Debug\net5.0\Aula08exec1.py.exe
+C:\Users\Aluno\Desktop\fontess\Aula08exec1.py\bin\Debug\net5.0\Aula08exec1.py.deps.json
+C:\Users\Aluno\Desktop\fontess\Aula08exec1.py\bin\Debug\net5.0\Aula08exec1.py.runtimeconfig.json
+C:\Users\Aluno\Desktop\fontess\Aula08exec1.py\bin\Debug\net5.0\Aula08exec1.py.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\fontess\Aula08exec1.py\bin\Debug\net5.0\Aula08exec1.py.dll
+C:\Users\Aluno\Desktop\fontess\Aula08exec1.py\bin\Debug\net5.0\ref\Aula08exec1.py.dll
+C:\Users\Aluno\Desktop\fontess\Aula08exec1.py\bin\Debug\net5.0\Aula08exec1.py.pdb
+C:\Users\Aluno\Desktop\fontess\Aula08exec1.py\obj\Debug\net5.0\Aula08exec1.py.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\fontess\Aula08exec1.py\obj\Debug\net5.0\Aula08exec1.py.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\fontess\Aula08exec1.py\obj\Debug\net5.0\Aula08exec1.py.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\fontess\Aula08exec1.py\obj\Debug\net5.0\Aula08exec1.py.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\fontess\Aula08exec1.py\obj\Debug\net5.0\Aula08exec1.py.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\fontess\Aula08exec1.py\obj\Debug\net5.0\Aula08exec1.py.dll
+C:\Users\Aluno\Desktop\fontess\Aula08exec1.py\obj\Debug\net5.0\ref\Aula08exec1.py.dll
+C:\Users\Aluno\Desktop\fontess\Aula08exec1.py\obj\Debug\net5.0\Aula08exec1.py.pdb
+C:\Users\Aluno\Desktop\fontess\Aula08exec1.py\obj\Debug\net5.0\Aula08exec1.py.genruntimeconfig.cache

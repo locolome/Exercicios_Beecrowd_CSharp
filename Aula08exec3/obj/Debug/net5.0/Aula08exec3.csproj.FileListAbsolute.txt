@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\fontess\Aula08exec3\bin\Debug\net5.0\Aula08exec3.exe
+C:\Users\Aluno\Desktop\fontess\Aula08exec3\bin\Debug\net5.0\Aula08exec3.deps.json
+C:\Users\Aluno\Desktop\fontess\Aula08exec3\bin\Debug\net5.0\Aula08exec3.runtimeconfig.json
+C:\Users\Aluno\Desktop\fontess\Aula08exec3\bin\Debug\net5.0\Aula08exec3.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\fontess\Aula08exec3\bin\Debug\net5.0\Aula08exec3.dll
+C:\Users\Aluno\Desktop\fontess\Aula08exec3\bin\Debug\net5.0\ref\Aula08exec3.dll
+C:\Users\Aluno\Desktop\fontess\Aula08exec3\bin\Debug\net5.0\Aula08exec3.pdb
+C:\Users\Aluno\Desktop\fontess\Aula08exec3\obj\Debug\net5.0\Aula08exec3.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\fontess\Aula08exec3\obj\Debug\net5.0\Aula08exec3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\fontess\Aula08exec3\obj\Debug\net5.0\Aula08exec3.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\fontess\Aula08exec3\obj\Debug\net5.0\Aula08exec3.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\fontess\Aula08exec3\obj\Debug\net5.0\Aula08exec3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\fontess\Aula08exec3\obj\Debug\net5.0\Aula08exec3.dll
+C:\Users\Aluno\Desktop\fontess\Aula08exec3\obj\Debug\net5.0\ref\Aula08exec3.dll
+C:\Users\Aluno\Desktop\fontess\Aula08exec3\obj\Debug\net5.0\Aula08exec3.pdb
+C:\Users\Aluno\Desktop\fontess\Aula08exec3\obj\Debug\net5.0\Aula08exec3.genruntimeconfig.cache

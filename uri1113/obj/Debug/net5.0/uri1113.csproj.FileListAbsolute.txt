@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\fontess\uri1113\bin\Debug\net5.0\uri1113.exe
+C:\Users\Aluno\Desktop\fontess\uri1113\bin\Debug\net5.0\uri1113.deps.json
+C:\Users\Aluno\Desktop\fontess\uri1113\bin\Debug\net5.0\uri1113.runtimeconfig.json
+C:\Users\Aluno\Desktop\fontess\uri1113\bin\Debug\net5.0\uri1113.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\fontess\uri1113\bin\Debug\net5.0\uri1113.dll
+C:\Users\Aluno\Desktop\fontess\uri1113\bin\Debug\net5.0\ref\uri1113.dll
+C:\Users\Aluno\Desktop\fontess\uri1113\bin\Debug\net5.0\uri1113.pdb
+C:\Users\Aluno\Desktop\fontess\uri1113\obj\Debug\net5.0\uri1113.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\fontess\uri1113\obj\Debug\net5.0\uri1113.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\fontess\uri1113\obj\Debug\net5.0\uri1113.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\fontess\uri1113\obj\Debug\net5.0\uri1113.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\fontess\uri1113\obj\Debug\net5.0\uri1113.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\fontess\uri1113\obj\Debug\net5.0\uri1113.dll
+C:\Users\Aluno\Desktop\fontess\uri1113\obj\Debug\net5.0\ref\uri1113.dll
+C:\Users\Aluno\Desktop\fontess\uri1113\obj\Debug\net5.0\uri1113.pdb
+C:\Users\Aluno\Desktop\fontess\uri1113\obj\Debug\net5.0\uri1113.genruntimeconfig.cache

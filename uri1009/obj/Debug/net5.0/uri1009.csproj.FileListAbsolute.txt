@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\fontess\uri1009\bin\Debug\net5.0\uri1009.exe
+C:\Users\Aluno\Desktop\fontess\uri1009\bin\Debug\net5.0\uri1009.deps.json
+C:\Users\Aluno\Desktop\fontess\uri1009\bin\Debug\net5.0\uri1009.runtimeconfig.json
+C:\Users\Aluno\Desktop\fontess\uri1009\bin\Debug\net5.0\uri1009.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\fontess\uri1009\bin\Debug\net5.0\uri1009.dll
+C:\Users\Aluno\Desktop\fontess\uri1009\bin\Debug\net5.0\ref\uri1009.dll
+C:\Users\Aluno\Desktop\fontess\uri1009\bin\Debug\net5.0\uri1009.pdb
+C:\Users\Aluno\Desktop\fontess\uri1009\obj\Debug\net5.0\uri1009.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\fontess\uri1009\obj\Debug\net5.0\uri1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\fontess\uri1009\obj\Debug\net5.0\uri1009.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\fontess\uri1009\obj\Debug\net5.0\uri1009.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\fontess\uri1009\obj\Debug\net5.0\uri1009.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\fontess\uri1009\obj\Debug\net5.0\uri1009.dll
+C:\Users\Aluno\Desktop\fontess\uri1009\obj\Debug\net5.0\ref\uri1009.dll
+C:\Users\Aluno\Desktop\fontess\uri1009\obj\Debug\net5.0\uri1009.pdb
+C:\Users\Aluno\Desktop\fontess\uri1009\obj\Debug\net5.0\uri1009.genruntimeconfig.cache

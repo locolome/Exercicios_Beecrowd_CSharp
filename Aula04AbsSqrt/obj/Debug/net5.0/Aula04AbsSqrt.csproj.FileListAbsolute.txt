@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\fontess\Aula04AbsSqrt\bin\Debug\net5.0\Aula04AbsSqrt.exe
+C:\Users\Aluno\Desktop\fontess\Aula04AbsSqrt\bin\Debug\net5.0\Aula04AbsSqrt.deps.json
+C:\Users\Aluno\Desktop\fontess\Aula04AbsSqrt\bin\Debug\net5.0\Aula04AbsSqrt.runtimeconfig.json
+C:\Users\Aluno\Desktop\fontess\Aula04AbsSqrt\bin\Debug\net5.0\Aula04AbsSqrt.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\fontess\Aula04AbsSqrt\bin\Debug\net5.0\Aula04AbsSqrt.dll
+C:\Users\Aluno\Desktop\fontess\Aula04AbsSqrt\bin\Debug\net5.0\ref\Aula04AbsSqrt.dll
+C:\Users\Aluno\Desktop\fontess\Aula04AbsSqrt\bin\Debug\net5.0\Aula04AbsSqrt.pdb
+C:\Users\Aluno\Desktop\fontess\Aula04AbsSqrt\obj\Debug\net5.0\Aula04AbsSqrt.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\fontess\Aula04AbsSqrt\obj\Debug\net5.0\Aula04AbsSqrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\fontess\Aula04AbsSqrt\obj\Debug\net5.0\Aula04AbsSqrt.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\fontess\Aula04AbsSqrt\obj\Debug\net5.0\Aula04AbsSqrt.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\fontess\Aula04AbsSqrt\obj\Debug\net5.0\Aula04AbsSqrt.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\fontess\Aula04AbsSqrt\obj\Debug\net5.0\Aula04AbsSqrt.dll
+C:\Users\Aluno\Desktop\fontess\Aula04AbsSqrt\obj\Debug\net5.0\ref\Aula04AbsSqrt.dll
+C:\Users\Aluno\Desktop\fontess\Aula04AbsSqrt\obj\Debug\net5.0\Aula04AbsSqrt.pdb
+C:\Users\Aluno\Desktop\fontess\Aula04AbsSqrt\obj\Debug\net5.0\Aula04AbsSqrt.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\fontess\uri1114\obj\Debug\net5.0\uri1114.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\fontess\uri1114\obj\Debug\net5.0\uri1114.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\fontess\uri1114\obj\Debug\net5.0\uri1114.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\fontess\uri1114\obj\Debug\net5.0\uri1114.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\fontess\uri1114\obj\Debug\net5.0\uri1114.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\fontess\uri1114\bin\Debug\net5.0\uri1114.exe
+C:\Users\Aluno\Desktop\fontess\uri1114\bin\Debug\net5.0\uri1114.deps.json
+C:\Users\Aluno\Desktop\fontess\uri1114\bin\Debug\net5.0\uri1114.runtimeconfig.json
+C:\Users\Aluno\Desktop\fontess\uri1114\bin\Debug\net5.0\uri1114.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\fontess\uri1114\bin\Debug\net5.0\uri1114.dll
+C:\Users\Aluno\Desktop\fontess\uri1114\bin\Debug\net5.0\ref\uri1114.dll
+C:\Users\Aluno\Desktop\fontess\uri1114\bin\Debug\net5.0\uri1114.pdb
+C:\Users\Aluno\Desktop\fontess\uri1114\obj\Debug\net5.0\uri1114.dll
+C:\Users\Aluno\Desktop\fontess\uri1114\obj\Debug\net5.0\ref\uri1114.dll
+C:\Users\Aluno\Desktop\fontess\uri1114\obj\Debug\net5.0\uri1114.pdb
+C:\Users\Aluno\Desktop\fontess\uri1114\obj\Debug\net5.0\uri1114.genruntimeconfig.cache
